@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: branch 1.10\n"
+"Project-Id-Version: ugly_era-1.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-02-26 17:26+0100\n"
 "PO-Revision-Date: 2012-02-26 17:26+0100\n"
